@@ -43,3 +43,15 @@ C:\Users\ensio\Documents\GitHub\H-stTerminProjectX\Snake\obj\Debug\Snake.csproj.
 C:\Users\ensio\Documents\GitHub\H-stTerminProjectX\Snake\obj\Debug\Snake.exe
 C:\Users\ensio\Documents\GitHub\H-stTerminProjectX\Snake\obj\Debug\Snake.pdb
 C:\Users\SteamBox\Documents\GitHub\H-stTerminProjectX\Snake\obj\Debug\Snake.Form2.resources
+C:\Users\SteamBox\Documents\GitHub\ProjectSnake\Snake\bin\Debug\Snake.exe.config
+C:\Users\SteamBox\Documents\GitHub\ProjectSnake\Snake\bin\Debug\Snake.exe
+C:\Users\SteamBox\Documents\GitHub\ProjectSnake\Snake\bin\Debug\Snake.pdb
+C:\Users\SteamBox\Documents\GitHub\ProjectSnake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\SteamBox\Documents\GitHub\ProjectSnake\Snake\obj\Debug\Snake.csproj.SuggestedBindingRedirects.cache
+C:\Users\SteamBox\Documents\GitHub\ProjectSnake\Snake\obj\Debug\Snake.Form2.resources
+C:\Users\SteamBox\Documents\GitHub\ProjectSnake\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\SteamBox\Documents\GitHub\ProjectSnake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\SteamBox\Documents\GitHub\ProjectSnake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\SteamBox\Documents\GitHub\ProjectSnake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\SteamBox\Documents\GitHub\ProjectSnake\Snake\obj\Debug\Snake.exe
+C:\Users\SteamBox\Documents\GitHub\ProjectSnake\Snake\obj\Debug\Snake.pdb

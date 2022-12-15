@@ -46,7 +46,7 @@ namespace Snake
 
             StreamWriter streamWriter = new StreamWriter(path);*/
 
-            using (StreamReader reader = new StreamReader(@"C:\Users\SteamBox\Documents\GitHub\H-stTerminProjectX\Snake\text.txt"))
+            using (StreamReader reader = new StreamReader(@"C:\Users\SteamBox\Documents\GitHub\ProjectSnake\Snake\text.txt"))
             {
                 txtHighScore.Text = reader.ReadLine();
             }
